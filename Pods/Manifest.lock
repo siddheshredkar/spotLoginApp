@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (5.0.0-rc.2)
+  - Kingfisher (5.10.1):
+    - Kingfisher/Core (= 5.10.1)
+  - Kingfisher/Core (5.10.1)
+  - SkyFloatingLabelTextField (3.7.0)
+
+DEPENDENCIES:
+  - Alamofire (= 5.0.0-rc.2)
+  - Kingfisher (~> 5.10)
+  - SkyFloatingLabelTextField (~> 3.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+    - SkyFloatingLabelTextField
+
+SPEC CHECKSUMS:
+  Alamofire: f9450d3c7f6bea2ad62e7a541c3e9b186c7991d6
+  Kingfisher: eb36b7dfcc78d60877051c92c119a2865972961a
+  SkyFloatingLabelTextField: 4b46db0ab1ccde0919cded29c656e6b4805eda04
+
+PODFILE CHECKSUM: d9e446db6289ee78688bc2cc5d4254ecde421896
+
+COCOAPODS: 1.8.4

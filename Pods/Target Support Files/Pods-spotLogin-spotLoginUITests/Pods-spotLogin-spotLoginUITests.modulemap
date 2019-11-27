@@ -1,0 +1,6 @@
+framework module Pods_spotLogin_spotLoginUITests {
+  umbrella header "Pods-spotLogin-spotLoginUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
